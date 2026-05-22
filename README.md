@@ -23,9 +23,9 @@ COSAR represents a comprehensive research and development initiative to create w
 - Larianne Joael D. Basbas — Documentation
 
 **Academic Supervision**
-- Research Adviser: Mrs. Cecille B. Delgado
-- Research Coordinator: Mrs. Rowena V. Cabrera, EdD
-
+- Research Adviser: Mrs. Rowena V. Cabrera, EdD
+- Research Coordinator: Mrs. Cecille B. Delgado
+ Mrs. Rowena V. Cabrera, EdD
 **Institution:** Limay Senior High School, Duale, Limay, Bataan | STEM 12-B Program
 
 ---
