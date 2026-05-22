@@ -258,7 +258,6 @@ This repository includes comprehensive documentation covering all aspects of the
 ```
 cosar-gloves/
 │
-│
 ├── docs/                              # Technical documentation
 │   ├── UNIFIED_FIRMWARE_GUIDE.md     # Setup & operation guide
 │   ├── WIRING_DIAGRAM.md             # Hardware specifications
