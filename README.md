@@ -258,8 +258,6 @@ This repository includes comprehensive documentation covering all aspects of the
 ```
 cosar-gloves/
 │
-├── README.md                         # This file
-├── COSAR_UNIFIED_FIRMWARE.ino        # Production firmware (upload to Arduino)
 │
 ├── docs/                              # Technical documentation
 │   ├── UNIFIED_FIRMWARE_GUIDE.md     # Setup & operation guide
@@ -270,8 +268,8 @@ cosar-gloves/
 │
 ├── research/                          # Research documentation
 │   └── COSAR-Research-Study.docx     # Original research paper
-│
-└── .gitignore                        # Git configuration
+├── README.md                         # This file
+└── COSAR_UNIFIED_FIRMWARE.ino        # Production firmware (upload to Arduino)
 ```
 
 ---
