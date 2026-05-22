@@ -244,11 +244,11 @@ This repository includes comprehensive documentation covering all aspects of the
 cosar-gloves/
 │
 ├── docs/                              # Technical documentation
-│   ├── UNIFIED_FIRMWARE_GUIDE.md     # Setup & operation guide
-│   ├── WIRING_DIAGRAM.md             # Hardware specifications
+│   ├── CODE_VERIFICATION_REPORT.md   # Code quality
 │   ├── QUICK_REFERENCE.md            # Quick lookup
 │   ├── TROUBLESHOOTING_AND_FAQ.md    # Problem solving
-│   └── CODE_VERIFICATION_REPORT.md   # Code quality
+│   ├── UNIFIED_FIRMWARE_GUIDE.md     # Setup & operation guide
+│   └── WIRING_DIAGRAM.md             # Hardware specifications
 │
 ├── research/                          # Research documentation
 │   └── COSAR-Research-Study.docx     # Original research paper
@@ -410,4 +410,4 @@ This research would not have been possible without the dedicated support of our 
 
 ---
 
-**[Read the Full Research Paper](research/COSAR-Research-Study.docx)** | **[View Technical Specifications](research/src/hardware-specifications.md)** | **[See Implementation Guide](docs/UNIFIED_FIRMWARE_GUIDE.md)**
+**[Read the Full Research Paper](research/COSAR-Gloves.docx)** | **[See Implementation Guide](docs/UNIFIED_FIRMWARE_GUIDE.md)**
