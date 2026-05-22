@@ -236,21 +236,6 @@ See `WIRING_DIAGRAM.md` for complete pinout details.
 
 This repository includes comprehensive documentation covering all aspects of the project.
 
-**For Users & Implementers**
-- [UNIFIED_FIRMWARE_GUIDE.md](UNIFIED_FIRMWARE_GUIDE.md) — Complete setup and operation manual
-- [WIRING_DIAGRAM.md](WIRING_DIAGRAM.md) — Hardware connection specifications with diagrams
-- [QUICK_REFERENCE.md](QUICK_REFERENCE.md) — Quick lookup guide for button functions and troubleshooting
-
-**For Developers & Researchers**
-- [CODE_VERIFICATION_REPORT.md](CODE_VERIFICATION_REPORT.md) — Code quality assurance and verification
-- [TROUBLESHOOTING_AND_FAQ.md](TROUBLESHOOTING_AND_FAQ.md) — Problem resolution guide with diagnostic procedures
-- [IMPLEMENTATION_CHECKLIST.md](IMPLEMENTATION_CHECKLIST.md) — Phase-by-phase implementation tracking
-
-**Research Documentation**
-- [docs/abstract.md](docs/abstract.md) — Research abstract and key findings
-- [docs/methodology.md](docs/methodology.md) — Detailed research methodology and procedures
-- [docs/findings.md](docs/findings.md) — Complete statistical analysis and results
-
 ---
 
 ## Project Structure
@@ -363,8 +348,8 @@ This project is made available for academic research and educational purposes. A
 ## Contact & Support
 
 **Research Team Contact**
-- Matt Joseph M. Managaytay (Lead) — anoishida01@gmail.com
-- Anthony A. Lumantao — anthonylumantao.dev@gmail.com
+- Matt Joseph M. Managaytay (Lead Researcher) — anoishida01@gmail.com
+- Anthony A. Lumantao (Lead Programmer) — anthonylumantao.dev@gmail.com
 - Ysha Mae V. De Guzman — yshamae7197@gmail.com
 - Eugene Kimberly B. Visbal — eugenevisbal688@gmail.com
 - Russel Vien A. Gracela — russelgracela74@gmail.com
