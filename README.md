@@ -254,7 +254,7 @@ cosar-gloves/
 │   └── COSAR-Gloves.docx             # Original research paper
 │
 ├── README.md                         # This file
-└── COSAR_UNIFIED_FIRMWARE.ino        # Production firmware (upload to Arduino)
+└── COSAR.ino                        # Production firmware (upload to Arduino)
 ```
 
 ---
