@@ -269,16 +269,7 @@ cosar-gloves/
 │   └── CODE_VERIFICATION_REPORT.md   # Code quality
 │
 ├── research/                          # Research documentation
-│   ├── COSAR-Research-Study.docx     # Original research paper
-│   ├── docs/
-│   │   ├── abstract.md
-│   │   ├── methodology.md
-│   │   └── findings.md
-│   ├── data/
-│   │   ├── participant-profiles.csv
-│   │   └── survey-results.txt
-│   └── src/
-│       └── hardware-specifications.md
+│   └── COSAR-Research-Study.docx     # Original research paper
 │
 └── .gitignore                        # Git configuration
 ```
