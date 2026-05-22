@@ -214,7 +214,7 @@ Install: DFRobotDFPlayerMini by DFRobot
 **3. Prepare Audio Feedback**
 
 Generate 40 MP3 files for audio responses:
-- Use text-to-speech service (www.ttsmp3.com) or record personally
+- Use text-to-speech service ([Text to Speech](https://en.text-to-speech.online/)) or record personally
 - Name files sequentially: 001.mp3 through 105.mp3
 - Copy files to microSD card root directory
 - Insert card into DFPlayer module
