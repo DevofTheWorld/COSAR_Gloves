@@ -1,17 +1,5 @@
 # COSAR UNIFIED FIRMWARE - Implementation Guide
 
-## Overview
-
-This is a **complete rewrite** of your six separate Arduino sketches into **ONE unified program** with:
-- **Multiple Modes** - Switch between Color ID, Navigation, Medicine/Danger
-- **Button Control** - No recompiling needed - just press buttons!
-- **Auto-Calibration** - One-button calibration
-- **Volume Control** - Adjust volume with buttons
-- **EEPROM Storage** - Saves your preferences
-- **Better Color Detection** - HSV-based algorithm
-
----
-
 ## What You Need
 
 ### Hardware Required:
